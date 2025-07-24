@@ -56,4 +56,4 @@ This is a Python-based console application that helps users calculate their inco
 2. Run the script:
    ```bash
    python Tax_calculation_app.ipynb
-(or open it via Jupyter Notebook for
+(or open it via Jupyter Notebook)
