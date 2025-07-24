@@ -1,4 +1,4 @@
-# Tax_calculation_app
+# Tax calculation app
 This is a Python-based console application that helps users calculate their income tax under both the **Old** and **New** tax regimes. It allows deductions for the Old Regime, applies slab-wise tax calculations, includes a 4% cess, and recommends the more beneficial regime.
 
 ---
