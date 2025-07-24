@@ -17,7 +17,7 @@ This is a Python-based console application that helps users calculate their inco
 
 ---
 
-## 📊 Tax Rules
+##  Tax Rules
 
 ### Old Regime Slabs (Deductions Allowed)
 
