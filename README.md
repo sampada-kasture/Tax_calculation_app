@@ -48,7 +48,7 @@ This is a Python-based console application that helps users calculate their inco
 
  *4% cess is added to the total tax in both regimes*
 
----
+
 
 ##  How to Run
 
